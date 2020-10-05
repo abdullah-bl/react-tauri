@@ -22,12 +22,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-### `yarn tauri dev`
+### `yarn dev`
 
 To your run application in Dev mode
 this command with run dev server for your web app and run dev mode for your application
 
-### `yarn tauri build`
+### `yarn build-tauri`
 
 To run build version of your app
 
